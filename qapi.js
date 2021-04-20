@@ -29,7 +29,7 @@ export default {
 		"607e8650550c43001ee5158e": {
 			"id": "607e8650550c43001ee5158e",
 			"pageUrl": "page10",
-			"name": "page10"
+			"name": "page10пававп"
 		}
 	},
 	"mode": "production",

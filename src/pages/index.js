@@ -43,6 +43,9 @@ export default (() => {
 			<style place={"endOfHead"} rawKey={"607e8679b410786bcf026f26"}>
 				{"alert(\"привет я сайт\")"}
 			</style>
+			<script place={"endOfHead"} rawKey={"607e89cafa202fe8313fb4c5"}>
+				{"alert(\"привет я сайт\")"}
+			</script>
 		</RawHtml>
 	</Theme>;
 });
